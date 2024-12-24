@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and highly motivated B.Tech El
 - 🔭 I’m currently working on **Data Science, Machine Learning**, and **GenAI** projects.
 - 🌱 I’m learning more about **AI**, **Deep Learning**,**GenAI** and **Reinforcement Learning**.
 - 👯 I’m looking to collaborate on **innovative tech projects**, **data-driven solutions**, and **coding challenges**.
+- 📫 You can reach me at [saidivyakodipaka856@gmail.com](mailto:saidivyakodipaka856@gmail.com)
 - 💬 Ask me about **Python**, **Data Science**, **Machine Learning**, or anything related to **Electrical Engineering**.
 - ⚡ Fun fact: I love exploring **new technologies** and have a passion for **solving real-world problems** through code!
 
@@ -17,7 +18,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and highly motivated B.Tech El
 ### 📂 Recent Projects
 - **[Rock-Paper-Scissors Game](https://github.com/saidivya-14/Rock_paper_scissors)**: A Python-based game where players compete against the computer with real-time feedback and winner determination.
 - **[Guess the Random Number Game](https://github.com/saidivya-14/Guess_the_number)**: A Python game where the user guesses a randomly generated number between 1 and 100.
-- **[Data Science AI Assistant](https://github.com/saidivya-14/Data_scientist_application_using_GenAI)**: A Python-based assistant powered by the Gemini API to answer Data Science-related queries.
+- **[Data Science AI Assistant](https://github.com/saidivya-14/Datascience_AI_Assistant)**: A Python-based assistant powered by the Gemini API to answer Data Science-related queries.
 ---
 
 ## 🏆 **Achievements**
