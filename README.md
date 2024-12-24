@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm an enthusiastic and highly motivated B.Tech El
 ---
 
 ### 📂 Recent Projects
-- **[Rock-Paper-Scissors Game](https://github.com/saidivya-14/rock-paper-scissors)**: A Python-based game where players compete against the computer with real-time feedback and winner determination.
-- **[Guess the Random Number Game](https://github.com/saidivya-14/guess-the-random-number)**: A Python game where the user guesses a randomly generated number between 1 and 100.
-- **[Data Science AI Assistant](https://github.com/saidivya-14/datascience-ai-assistant)**: A Python-based assistant powered by the Gemini API to answer Data Science-related queries.
+- **[Rock-Paper-Scissors Game](https://github.com/saidivya-14/Rock_paper_scissors)**: A Python-based game where players compete against the computer with real-time feedback and winner determination.
+- **[Guess the Random Number Game](https://github.com/saidivya-14/Guess_the_number)**: A Python game where the user guesses a randomly generated number between 1 and 100.
+- **[Data Science AI Assistant](https://github.com/saidivya-14/Data_scientist_application_using_GenAI)**: A Python-based assistant powered by the Gemini API to answer Data Science-related queries.
 ---
 
 ## 🏆 **Achievements**
