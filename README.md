@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm an enthusiastic and highly motivated **B.Tech 
 
 ### 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saidivya-14&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saidivya-14&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saidivya-14&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saidivya-14&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="Top Languages" height="150"/>
 </p>
 
 ---
