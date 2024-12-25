@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm an enthusiastic and highly motivated **B.Tech 
 
 ---
 
-### 🛠️ **Skills**  
+### 🛠️ **Skills & Tools**  
 <p align="left">
     <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
     <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" alt="SQL" width="40" height="40"/>
