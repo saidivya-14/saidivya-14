@@ -51,7 +51,11 @@ Welcome to my GitHub profile! I'm an enthusiastic and highly motivated **B.Tech 
   <a href="https://github.com/saidivya-14">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.hackerrank.com/profile/saidivyakodipaka">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
 </p>
+
 
 ---
 
